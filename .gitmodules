@@ -1,0 +1,6 @@
+[submodule "extern/open62541pp"]
+	path = extern/open62541pp
+	url = https://github.com/open62541pp/open62541pp.git
+[submodule "extern/paho.mqtt.cpp"]
+	path = extern/paho.mqtt.cpp
+	url = https://github.com/eclipse-paho/paho.mqtt.cpp
